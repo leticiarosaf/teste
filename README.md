@@ -21,7 +21,7 @@ This project is a REST API developed with FastAPI to expose a wine classificatio
 This folder is organized as follows:  
 
 ```
-📦wine-classifier-api/
+wine-classifier-api/
  ┣ app/
  ┣   ┣ __init__.py
  ┣   ┣ main.py                    # API entry point
