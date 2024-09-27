@@ -22,15 +22,15 @@ This folder is organized as follows:
 
 ```
 📦wine-classifier-api/
- ┣ 📂app/
+ ┣ app/
  ┣   ┣ __init__.py
  ┣   ┣ main.py                    # API entry point
  ┣   ┣ model.py                   # Model prediction and loading function
  ┣   ┣ wine_model.pkl             # Trained model
- ┣ 📂Notebook:  
+ ┣ Notebook:  
  ┣   ┣ wine_model_training.ipynb  # Notebook to train and save the model
  ┣ requirements.txt               # Project dependencies
- ┗ 📜README.md                   # Project documentation
+ ┗ README.md                   # Project documentation
  ```
  
 ## Installation
